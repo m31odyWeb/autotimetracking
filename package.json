@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
-    "tsc": "npx tsc",
+    "compile": "npx tsc",
     "fill-month": "cross-env MODE=FILL_MONTH node ./dist/index.js",
     "fill-date": "cross-env MODE=FILL_DATE node ./dist/index.js",
     "fill": "cross-env MODE=FILL node ./dist/index.js"
