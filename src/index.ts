@@ -67,7 +67,7 @@ switch (mode) {
         console.log('');
         console.log('--*--*--*--*--*--*--*--*--*--*--');
         console.log(`         Date: ${date}          `);
-        console.log(`         Range: ${date}          `);
+        console.log(`         Range: ${range}          `);
         console.log('--*--*--*--*--*--*--*--*--*--*--');
         console.log('');
         rl.question('---It is correct data?---\nYes(y)/No(n): ', {}, (answer) => {
