@@ -6,7 +6,7 @@ This application is made to autocomplete time tracker from Bitbucket repositorie
 
 To compile the project, run:
 
-### `npm run tsc`
+### `npm run compile`
 
 Autocomplete the time tracker for the current month, run:
 
